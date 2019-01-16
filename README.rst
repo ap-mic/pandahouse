@@ -23,7 +23,7 @@ Install
 
 .. code:: bash
 
-    pip install git+https://github.com/sheiun/pandahouse/
+    pip install git+https://github.com/ap-mic/pandahouse/
 
 
 Usage
